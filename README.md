@@ -7,7 +7,7 @@ Desarrollador apasionado por la tecnología y la programación. Me encanta crear
 - 🌍 Ubicado en Barranquilla, Colombia
 - 💻 Enfocado en desarrollo web y software
 - 🎯 Siempre buscando nuevos desafíos y oportunidades de aprendizaje
-- 📫 Contáctame: [Tu email aquí]
+- 📫 Contáctame: c.alfonso8514@gmail.com
 
 ## 🛠️ Tecnologías y Herramientas
 
